@@ -1,6 +1,6 @@
 # 💰 Loan Approval Prediction — Logistic Regression & Decision Tree
 
-![Loan Prediction Banner](https://cdn.pixabay.com/photo/2018/01/18/07/44/money-3088307_1280.jpg)
+![Loan Prediction Banner](https://www.repsol.com/content/dam/repsol-corporate/es/energia-e-innovacion/robot-machine-learning.jpg.transform/rp-rendition-sm/image.jpg)
 
 ## 📋 Project Agenda
 
